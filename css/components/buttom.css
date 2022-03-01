@@ -1,0 +1,16 @@
+
+
+.btm-blue {
+	background-color: #D8D2CB;
+	color: #1C658C;
+	padding: 9px 18px;
+	border-radius: 4px;
+	font-family: 'Roboto' , sans-serif;
+	font-weight: bold;
+
+}
+.btm-blue:hover {
+
+	background-color: grey;
+	color: white;
+}
